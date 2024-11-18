@@ -26,6 +26,11 @@ header {
 
 /* main  */
 
+main {
+    width: 80%;
+    margin: auto;
+}
+
 /* section 1  */
 
 section h4, h5, h6 {
@@ -59,6 +64,11 @@ section h4, h5, h6 {
 
 
 /* footer  */
+
+footer {
+    width: 80%;
+    margin: auto;
+}
 
 .bold {
     font-weight: 600;
