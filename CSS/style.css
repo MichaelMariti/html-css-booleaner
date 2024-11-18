@@ -9,10 +9,28 @@
 
 /* header  */
 
+.logo {
+    height: 70px;
+    width: auto;
+    margin-top: 100px;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    height: 180px;
+    background-color: #4EA1FF;
+}
+
+
+/* main  */
 
 
 
 /* section 1  */
+
+.sub-title{
+    color: #4EA1FF;
+}
 
 /* section 2  */
 
