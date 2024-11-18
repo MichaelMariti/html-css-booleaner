@@ -3,11 +3,13 @@
     proprietà: valore;
 } */
 
+/* head */
 
-/* body  */
 
+  
 
-/* header  */
+/* body */
+/* header */
 
 .logo {
     height: 70px;
@@ -28,13 +30,32 @@ header {
 
 /* section 1  */
 
+section h4, h5, h6 {
+    font-weight: 200;
+    color: grey;
+    margin: 0 0;
+}
+
 .sub-title{
     color: #4EA1FF;
+    font-weight: 600;
 }
+
 
 /* section 2  */
 
+.highlight {
+    background-color: yellow;
+}
+
 /* section 3  */
+
+.table-blue {
+    background-color: #23A8E4;
+    color: white;
+}
+
+
 
 
 /* footer  */
