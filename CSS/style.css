@@ -26,8 +26,6 @@ header {
 
 /* main  */
 
-
-
 /* section 1  */
 
 section h4, h5, h6 {
@@ -55,7 +53,27 @@ section h4, h5, h6 {
     color: white;
 }
 
-
+.table-lightblue {
+    background-color: #B1E6F2;
+}
 
 
 /* footer  */
+
+.bold {
+    font-weight: 600;
+}
+
+#footer-img-1 {
+    background-image: url(../img/graph.jpg);
+    width: 311px;
+    height: 207px;
+    color: white;
+}
+
+#footer-img-2 {
+    background-image: url(../img/monitor.jpg);
+    width: 311px;
+    height: 207px;
+    color: white;
+}
