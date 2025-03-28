@@ -47,6 +47,8 @@ ul {
     margin: 50px 0;
 }
 
+/* table in main */
+
 table {
     width: 100%;
     text-align: left;
@@ -59,4 +61,13 @@ table {
 
 .table-color {
     background-color: grey;
+}
+
+/* footer */
+
+footer {
+    background-color: #2A2F4D;
+    color: white;
+    padding: 5px 0;
+    text-align: center;
 }
