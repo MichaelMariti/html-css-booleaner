@@ -20,6 +20,11 @@ header {
 
 /* main */
 
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
 .grey-text {
     display: block;
     color: grey;
@@ -28,4 +33,8 @@ header {
 #blue-text {
     color: #98D0ED;
     font-weight: 1000;
+}
+
+.sub-info {
+    display: block;
 }
