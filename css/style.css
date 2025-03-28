@@ -38,3 +38,25 @@ main {
 .sub-info {
     display: block;
 }
+
+#highlight {
+    background-color: yellow;
+}
+
+ul {
+    margin: 50px 0;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+#table-title {
+    background-color: #7FA6FB;
+}
+
+.table-color {
+    background-color: grey;
+}
