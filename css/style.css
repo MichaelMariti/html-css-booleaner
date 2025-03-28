@@ -1,0 +1,15 @@
+header {
+    background-image: url('../img/pattern.png');
+    background-color: #9CD6F4;
+    
+}
+
+#logo-cont {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#logo {
+    height: 50px;
+    margin: 40px 0px;
+}
